@@ -1,0 +1,10 @@
+Navigate to where you want to clone the repo
+    git clone <repository_url>
+Navigate to the cloned repository directory:
+    cd <repository_name>
+Create a new branch
+    git checkout -b <branch_name>
+Stage the commit
+    git add .
+Push to the commit
+    git push origin <branch_name>
