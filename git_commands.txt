@@ -6,5 +6,7 @@ Create a new branch
     git checkout -b <branch_name>
 Stage the commit
     git add .
-Push to the commit
+Make the commit
+    git commit -m "<message>"
+Push to the code
     git push origin <branch_name>
